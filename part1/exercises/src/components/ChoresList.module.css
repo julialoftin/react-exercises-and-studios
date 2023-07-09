@@ -1,7 +1,18 @@
 .choresText {
-   color: black;
+   color: green;
+   text-decoration: underline;
+   font-family: Arial, Helvetica, sans-serif;
 }
 
 .choresHeading {
-   color: black;
+   color: darkgreen;
+   font-style: italic;
+   font-family: Arial, Helvetica, sans-serif;
 }
+
+/*
+-Use a different font, with a size large enough to easily read.
+-The text color should be different from the movie list, but not black.
+-The chores list should have an underlined heading.
+-The chores in the list should be italicized.
+*/
