@@ -10,7 +10,7 @@ export default function RecipeAuthor() {
         <img src={authorPhoto} alt="Headshot of Emily Walker" className={styles.imageUpdates} />
         <div>
             <h3>{authorName}</h3>
-            <a href={authorLink} target='blank'>Favorite Family Recipes</a>
+            <a href={authorLink} target='_blank'>Favorite Family Recipes</a>
         </div>
     </div>
   )
