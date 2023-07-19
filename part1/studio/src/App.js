@@ -3,6 +3,7 @@ import './App.css';
 import RecipeDescription from './components/RecipeDescription';
 import RecipeIngredients from './components/Ingredients';
 import RecipePhoto from './components/Photos';
+import RecipeAuthor from './components/Description';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <div className="recipePhotoBlock">
         <RecipeDescription />
         <RecipeIngredients />
+        <RecipeAuthor />
       </div>
     </div>
     </div>

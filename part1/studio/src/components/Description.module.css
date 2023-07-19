@@ -4,5 +4,5 @@
 }
     
 .imageUpdates {
-    object-fit: contain;
+    max-height: 500px;
 }
