@@ -1,0 +1,28 @@
+{
+    "keybs": [
+        {
+            "name": "Drop + The Lord of the Rings",
+            "layout": "TKL",
+            "switches": "Holy Panda X Switches",
+            "connectivity": "USB-C"
+        },
+        {
+            "name": "MelGeek",
+            "layout": "65%",
+            "switches": "Gateron White Pro",
+            "connectivity": "USB-C"
+        },
+        {
+            "name": "Maple Professional ",
+            "layout": "90%",
+            "switches": "Red Cherry MX",
+            "connectivity": "USB-C"
+        },
+        {
+            "name": "NuPhy® x AKIRA40K",
+            "layout": "75%",
+            "switches": "Polaris",
+            "connectivity": "USB-C"
+        }
+    ]
+}
